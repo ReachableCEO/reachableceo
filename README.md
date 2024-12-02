@@ -1,9 +1,3 @@
-—-
-gitea: none
-include_toc: true
-—-
-
-
 # Welcome to the @ReachableCEO profile!
 
 ## Introduction 
