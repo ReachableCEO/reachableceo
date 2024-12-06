@@ -1,18 +1,21 @@
-# Welcome to the @ReachableCEO profile!
+# Welcome to the @ReachableCEO profile
 
-## Introduction 
+## Introduction
 
-## Repositories of interest 
+## Repositories of interest
 
-## Language Examples 
+## Language Examples
 
 ### Markdown
 
 ### Bash
 
-### PowerShell 
+### PowerShell
 
-## Concept experience 
+## Concept experience
 
 ### REST API
 
+## Sponsor Me
+
+## <p align="center">️ My development environment </p>
