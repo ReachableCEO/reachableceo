@@ -7,7 +7,7 @@
 ## Programming Repositories of interest
 
 
-### Markdown Build Pipeline
+### Markdown/Typst Build Pipeline
 
 - Core minimum viable product (rcdocs)
 - Small example: (daily stakeholder report)
@@ -35,8 +35,16 @@
 
 ## Concept experience demonstrations 
 
+Please browse my [code snippets repository]() to see the full extent of my experience. 
+
+Below are some highlights of the repository to best demonstrate my experience with various common concepts needed by most projects.  
+
 ### REST API
 
+### Other 
+
 ## Sponsor Me
+
+If you want to help fund my work on the above projects , please visit my [sponsorship page]().
 
 ## <p align="center">️ My development environment </p>
