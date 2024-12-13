@@ -29,7 +29,7 @@ I have written a collection of scripts to start new full sized/production coding
 
 It's a collection of methodologies, practices, approaches etc that I've picked up over time.
 
-[ReachableCEO Shell Framework](https://git.knownelement.com/reachableceo/ReachableCEO-ShellScriptPortfolio/src/branch/main/SysadminAutomation/ServerAutomation/ssh-handlers)
+[ReachableCEO Shell Framework](https://git.knownelement.com/reachableceo/ReachableCEO-ShellScriptPortfolio)
 
 ### Markdown/Typst Build Pipeline
 
