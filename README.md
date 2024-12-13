@@ -48,7 +48,7 @@ Please browse my [code snippets repository]() to see the full extent of my exper
 
 Below are some highlights of the repository to best demonstrate my experience with various common concepts needed by most projects.  
 
-- [REST API](Mhttps://git.knownelement.com/reachableceo/ReachableCEO-ShellScriptPortfolio/src/branch/main/SysadminAutomation/PHPIpam/phpipam_api_key.sh)
+- [REST API](https://git.knownelement.com/reachableceo/ReachableCEO-ShellScriptPortfolio/src/branch/main/SysadminAutomation/PHPIpam/phpipam_api_key.sh)
 
 - [Data bulk synthesis/loading](https://git.knownelement.com/reachableceo/ReachableCEO-ShellScriptPortfolio/src/branch/main/ldif/genUser.sh)
 
