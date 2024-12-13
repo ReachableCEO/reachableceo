@@ -44,9 +44,9 @@ It's a collection of methodologies, practices, approaches etc that I've picked u
 
 ### Programming Concept experience demonstrations
 
-Please browse my [code snippets repository]() to see the full extent of my experience.
+Please browse my [code snippets repository](https://git.knownelement.com/reachableceo/ReachableCEO-ShellScriptPortfolio) to see a broad range of my experience.
 
-Below are some highlights of the repository to best demonstrate my experience with various common concepts needed by most projects.  
+Below are some highlights of the shell code snippets repository to best demonstrate my experience with various common concepts needed by most projects.
 
 - [REST API](https://git.knownelement.com/reachableceo/ReachableCEO-ShellScriptPortfolio/src/branch/main/SysadminAutomation/PHPIpam/phpipam_api_key.sh)
 
