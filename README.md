@@ -2,46 +2,44 @@
 
 ## Introduction
 
-
-
 ## Programming Repositories of interest
-
 
 ### Markdown/Typst Build Pipeline
 
-- Core minimum viable product (rcdocs)
-- Small example: (daily stakeholder report)
-- Medium example (client / server ): (markdown resume)
-- Large example: (Startup Starter Package) 
+- Core minimum viable product [rcdocs](https://git.knownelement.com/reachableceo/rcdoc-pipeline)
+- Small example: [daily stakeholder report pipeline ](https://git.knownelement.com/reachableceo/DailyStakeholderReport-Pipeline)
+- Medium example (client / server ): [markdown resume](https://git.knownelement.com/reachableceo/MarkdownResume-Pipeline-ClientExample)
+- Large example: [Startup Starter Package](https://git.knownelement.com/RWSCP/StartupStarterPackage)
 
 ### Polygot
 
-- Bash / power shell : (Private Cloud Orchestration System) 
+- Bash / power shell : (Private Cloud Orchestration System)
 
-## Documentation Repositories of interest 
+## Documentation Repositories of interest
 
-### Marketing 
+### Marketing
 
-- Sponsorship Profiles 
+- [Sponsorship Profiles](https://git.knownelement.com/reachableceo/SponsorshipProfiles)
 
-### Instructional 
+### Instructional
 
-- Self hosted sponsorship  
+- [Self hosted sponsorship](https://git.knownelement.com/reachableceo/selfhosted-sponsorship)
 
-### Technical   
- 
+### Business Deals/contracts
 
+- [TSYS Group Ancillary Business Joint Venture](https://git.knownelement.com/TSYSGroupBOD/TSYSAncillaryBusinessDealMemo)
 
+### Technical
 
-## Concept experience demonstrations 
+## Concept experience demonstrations
 
-Please browse my [code snippets repository]() to see the full extent of my experience. 
+Please browse my [code snippets repository]() to see the full extent of my experience.
 
 Below are some highlights of the repository to best demonstrate my experience with various common concepts needed by most projects.  
 
 ### REST API
 
-### Other 
+### Other
 
 ## Sponsor Me
 
