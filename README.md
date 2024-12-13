@@ -2,17 +2,38 @@
 
 ## Introduction
 
-## Repositories of interest
 
-## Language Examples
 
-### Markdown
+## Programming Repositories of interest
 
-### Bash
 
-### PowerShell
+### Markdown Build Pipeline
 
-## Concept experience
+- Core minimum viable product (rcdocs)
+- Small example: (daily stakeholder report)
+- Medium example (client / server ): (markdown resume)
+- Large example: (Startup Starter Package) 
+
+### Polygot
+
+- Bash / power shell : (Private Cloud Orchestration System) 
+
+## Documentation Repositories of interest 
+
+### Marketing 
+
+- Sponsorship Profiles 
+
+### Instructional 
+
+- Self hosted sponsorship  
+
+### Technical   
+ 
+
+
+
+## Concept experience demonstrations 
 
 ### REST API
 
