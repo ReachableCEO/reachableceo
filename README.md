@@ -3,10 +3,10 @@
 - [Welcome to the @ReachableCEO profile](#welcome-to-the-reachableceo-profile)
   - [Introduction](#introduction)
   - [Programming Repositories of interest](#programming-repositories-of-interest)
+    - [Code snippets](#code-snippets)
     - [Shell scripting framework](#shell-scripting-framework)
     - [Markdown/Typst Build Pipeline](#markdowntypst-build-pipeline)
-    - [Polygot](#polygot)
-    - [Programming Concept experience demonstrations](#programming-concept-experience-demonstrations)
+    - [Private Cloud Orchestration System](#private-cloud-orchestration-system)
   - [Documentation Repositories of interest](#documentation-repositories-of-interest)
     - [Marketing](#marketing)
     - [Instructional](#instructional)
@@ -14,6 +14,8 @@
     - [Technical](#technical)
   - [Sponsor Me](#sponsor-me)
   - [️ My development environment ](#️-my-development-environment-)
+
+
 
 ## Introduction
 
