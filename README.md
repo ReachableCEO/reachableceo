@@ -13,9 +13,6 @@
     - [Business Deals/contracts](#business-dealscontracts)
     - [Technical](#technical)
   - [Sponsor Me](#sponsor-me)
-  - [️ My development environment ](#️-my-development-environment-)
-
-
 
 ## Introduction
 
@@ -41,37 +38,36 @@ It's a collection of methodologies, practices, approaches etc that I've picked u
 
 ### Markdown/Typst Build Pipeline
 
-I am not using my shell scripting framework for the small/medium examples. They started off as five line scripts and evolved. 
+I am not using my shell scripting framework for the small/medium examples. They started off as five line scripts and evolved.
 I will use my shell script framework for the large example as that's an inherently complex/massive project (a book).
 
 - Core minimum viable product [rcdocs](https://git.knownelement.com/reachableceo/rcdoc-pipeline)
 
 - Small example:
-    -  Simple client/server/microservice model.
-    -  Combines data from multiple markdown/csv files into a single markdown file.
-    -  Includes table generation from CSV.
-    - Fully production ready (v1.0 release cut 12/15/2024) and (other than jsonresume output) should be code/feature/test suite complete and considered in maintenance mode.
-    -  [markdown resume](https://git.knownelement.com/reachableceo/MarkdownResume-Pipeline-ClientExample)
-    
+  - Simple client/server/microservice model.
+  - Combines data from multiple markdown/csv files into a single markdown file.
+  - Includes table generation from CSV.
+  - Fully production ready (v1.0 release cut 12/15/2024) and (other than jsonresume output) should be code/feature/test suite complete and considered in maintenance mode.
+  - [markdown resume](https://git.knownelement.com/reachableceo/MarkdownResume-Pipeline-ClientExample)
+
 - Medium example.
-    - Has everything from the small example.
-    - Also uses the TSYS secrets manaer.
-    - Used by the @ReachableCEO daily for producing his stakeholder reports in an automated fashion.
-    - Pulls in data from various backends via API (hence use of secrets manager)
-    - Currently (12/15/2024) a major work in progress and not production ready.
-    
-    -  [daily stakeholder report pipeline ](https://git.knownelement.com/reachableceo/DailyStakeholderReport-Pipeline)
+  - Has everything from the small example.
+  - Also uses the TSYS secrets manaer.
+  - Used by the @ReachableCEO daily for producing his stakeholder reports in an automated fashion.
+  - Pulls in data from various backends via API (hence use of secrets manager)
+  - Currently (12/15/2024) a major work in progress and not production ready.
+
+  - [daily stakeholder report pipeline](https://git.knownelement.com/reachableceo/DailyStakeholderReport-Pipeline)
 
 - Large example:
-    -  Ignore this for now. It's a massive work in progress and will be my main February project.
-     - [Startup Starter Package](https://git.knownelement.com/RWSCP/StartupStarterPackage)
+  - Ignore this for now. It's a massive work in progress and will be my main February project.
+  - [Startup Starter Package](https://git.knownelement.com/RWSCP/StartupStarterPackage)
 
 ### Private Cloud Orchestration System
 
 Currently (12/15/2024) this is being re-factored from monolith into microservice before release
 
--  [Private Cloud Orchestration System](https://git.knownelement.com/reachableceo/PrivateCloudOrchestrationSystem)
-
+- [Private Cloud Orchestration System](https://git.knownelement.com/reachableceo/PrivateCloudOrchestrationSystem)
 
 ## Documentation Repositories of interest
 
@@ -92,5 +88,3 @@ Currently (12/15/2024) this is being re-factored from monolith into microservice
 ## Sponsor Me
 
 If you want to help fund my work on the above projects , please visit my [sponsorship page]().
-
-## <p align="center">️ My development environment </p>
