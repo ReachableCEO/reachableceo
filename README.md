@@ -28,7 +28,7 @@ Currently (12/15/2024) it's a heavy work in progress as i finish building out my
 
 Please browse the below repository to see a collection of small useful utility code bits I've written over the years.
 
-[code snippets repository](https://git.knownelement.com/reachableceo/ReachableCEO-ShellScriptPortfolio) 
+- [code snippets repository](https://git.knownelement.com/reachableceo/ReachableCEO-ShellScriptPortfolio) 
 
 ### Shell scripting framework
 
@@ -36,7 +36,7 @@ I have written a framework of scripts to start new full sized/production coding 
 
 It's a collection of methodologies, practices, approaches etc that I've picked up over time.
 
-[ReachableCEO Shell Framework](https://git.knownelement.com/reachableceo/ReachableCEO-ShellScriptPortfolio)
+- [ReachableCEO Shell Framework](https://git.knownelement.com/reachableceo/ReachableCEO-ShellScriptPortfolio)
 
 ### Markdown/Typst Build Pipeline
 
