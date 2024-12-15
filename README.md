@@ -26,11 +26,13 @@ Currently (12/15/2024) it's a heavy work in progress as i finish building out my
 
 ### Code snippets
 
-Please browse my [code snippets repository](https://git.knownelement.com/reachableceo/ReachableCEO-ShellScriptPortfolio) to see a collection of small code bits I've written over the years.
+Please browse the below repository to see a collection of small useful utility code bits I've written over the years.
+
+[code snippets repository](https://git.knownelement.com/reachableceo/ReachableCEO-ShellScriptPortfolio) 
 
 ### Shell scripting framework
 
-I have written a collection of scripts to start new full sized/production coding projects.
+I have written a framework of scripts to start new full sized/production coding projects.
 
 It's a collection of methodologies, practices, approaches etc that I've picked up over time.
 
@@ -50,13 +52,12 @@ I will use my shell script framework for the large example as that's an inherent
   - Fully production ready (v1.0 release cut 12/15/2024) and (other than jsonresume output) should be code/feature/test suite complete and considered in maintenance mode.
   - [markdown resume](https://git.knownelement.com/reachableceo/MarkdownResume-Pipeline-ClientExample)
 
-- Medium example.
+- Medium example:
   - Has everything from the small example.
-  - Also uses the TSYS secrets manaer.
+  - Also uses the TSYS secrets manager.
   - Used by the @ReachableCEO daily for producing his stakeholder reports in an automated fashion.
   - Pulls in data from various backends via API (hence use of secrets manager)
   - Currently (12/15/2024) a major work in progress and not production ready.
-
   - [daily stakeholder report pipeline](https://git.knownelement.com/reachableceo/DailyStakeholderReport-Pipeline)
 
 - Large example:
