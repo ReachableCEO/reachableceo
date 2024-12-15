@@ -50,7 +50,7 @@ I will use my shell script framework for the large example as that's an inherent
   - Combines data from multiple markdown/csv files into a single markdown file.
   - Includes table generation from CSV.
   - Fully production ready (v1.0 release cut 12/15/2024) and (other than jsonresume output) should be code/feature/test suite complete and considered in maintenance mode.
-  - [markdown resume](https://git.knownelement.com/reachableceo/MarkdownResume-Pipeline-ClientExample)
+  -  [My markdown resume generation system](https://git.knownelement.com/reachableceo/ReachableCEOResume)
 
 - Medium example:
   - Has everything from the small example.
