@@ -20,15 +20,13 @@ Thank you for stopping by my developer/freelance profile.
 
 I have a curated a selection of repositories to highlight my experience.
 
-Currently (12/15/2024) it's a heavy work in progress as i finish building out my portfolio over this "week of content".
-
 ## Programming Repositories of interest
 
 ### Code snippets
 
 Please browse the below repository to see a collection of small useful utility code bits I've written over the years.
 
-- [code snippets repository](https://git.knownelement.com/reachableceo/ReachableCEO-ShellScriptPortfolio) 
+- [code snippets repository](https://git.knownelement.com/reachableceo/ReachableCEO-ShellScriptPortfolio)
 
 ### Shell scripting framework
 
@@ -40,28 +38,30 @@ It's a collection of methodologies, practices, approaches etc that I've picked u
 
 ### Markdown/Typst Build Pipeline
 
-I am not using my shell scripting framework for the small/medium examples. They started off as five line scripts and evolved.
-I will use my shell script framework for the large example as that's an inherently complex/massive project (a book).
-
-- Core minimum viable product [rcdocs](https://git.knownelement.com/reachableceo/rcdoc-pipeline)
+- Core minimum viable product:
+  - The minimum possible demonstration of using a yaml config, a background, a logo etc to generate a nicely formatted/branded PDF. Used as the basis for all the repositroies referenced in this section.
+  - [ReachableCEO Docs Production Pipeline](https://git.knownelement.com/reachableceo/rcdoc-pipeline)
 
 - Small example:
-  - Simple client/server/microservice model.
+  - A client/server approach using a microservice model.
   - Combines data from multiple markdown/csv files into a single markdown file.
-  - Includes table generation from CSV.
+  - Includes markdown table generation from CSV input.
   - Fully production ready (v1.0 release cut 12/15/2024) and (other than jsonresume output) should be code/feature/test suite complete and considered in maintenance mode.
-  -  [My markdown resume generation system](https://git.knownelement.com/reachableceo/ReachableCEOResume)
+  - [My markdown resume generation system](https://git.knownelement.com/reachableceo/MarkdownResume-Pipeline-ClientExample)
+  - [My resume](https://git.knownelement.com/reachableceo/ReachableCEO-Profile-FullTimeEmployment) which is using the above pipeline system with my actual career data.
 
 - Medium example:
+  - Currently (12/15/2024) a major work in progress and not (fully) production ready.
+  - Used by the @ReachableCEO daily for producing his stakeholder reports in an automated fashion.
   - Has everything from the small example.
   - Also uses the TSYS secrets manager.
-  - Used by the @ReachableCEO daily for producing his stakeholder reports in an automated fashion.
   - Pulls in data from various backends via API (hence use of secrets manager)
-  - Currently (12/15/2024) a major work in progress and not production ready.
-  - [daily stakeholder report pipeline](https://git.knownelement.com/reachableceo/DailyStakeholderReport-Pipeline)
+  - Publishes the report to disocurse via API (hence use of secrets manager)
+  - [My daily stakeholder report pipeline](https://git.knownelement.com/reachableceo/DSR-Pipeline-ReachableCEO)
 
 - Large example:
-  - Ignore this for now. It's a massive work in progress and will be my main February project.
+  - Uses mdbook
+  - Uses csv2chart
   - [Startup Starter Package](https://git.knownelement.com/RWSCP/StartupStarterPackage)
 
 ### Private Cloud Orchestration System
